@@ -1,0 +1,56 @@
+////Projects////
+
+1.Design website project *
+HOSTED: https://chintankamani.github.io/design-website-project/
+GITHUB: https://github.com/chintankamani/design-website-project
+IMAGE DONE
+
+
+2.portfolio *
+HOSTED: https://chintankamani.github.io/portfolio/
+GITHUB: https://chintankamani.github.io/portfolio/
+IMAGE DONE
+
+3.logistics *
+HOSTED: https://chintankamani.github.io/logistics/
+GITHUB: https://github.com/chintankamani/logistics
+IMAGE DONE
+
+4.csfs-college *
+HOSTED: https://vigorous-hawking-bfacaf.netlify.com/
+GITHUB: https://github.com/chintankamani/CSFS-college
+IMAGE DONE
+
+5.rock paper scissors *
+HOSTED:  https://tender-feynman-440688.netlify.com/
+GITHUB: https://github.com/chintankamani/rock-paper-scissor
+IMAGE DONE
+
+6.nexter course *
+HOSTED: https://chintankamani.github.io/nexter-course/
+GITHUB: https://github.com/chintankamani/nexter-course
+IMAGE DONE
+
+7.forkify course *(dist)
+HOSTED:  https://chintankamani.github.io/Forkify-course/
+GITHUB: https://github.com/chintankamani/Forkify-course
+IMAGE DONE
+
+
+8. burger app *
+HOSTED:  https://burger-01.web.app/
+GITHUB: https://github.com/chintankamani/burger-webapp
+IMAGE DONE
+
+
+9. trillo course *
+HOSTED: https://hopeful-mahavira-4605cb.netlify.com/
+GITHUB: https://github.com/chintankamani/Trillo-course
+IMAGE DONE
+
+
+10. natour course *
+
+HOSTED: https://stoic-shockley-bb2e1d.netlify.com/
+GITHUB: https://github.com/chintankamani/Natour-course
+IMAGE DONE
